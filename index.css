@@ -1,0 +1,30 @@
+
+body{
+    text-align: center;
+    background-color:rgba(143, 181, 77, 0.733);
+}
+h1{
+    color:rgb(151, 105, 48);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#bt{
+    height:100px;
+    width:100px;
+    /* padding: px; */
+    border:2px solid black;
+    border-radius: 20px; 
+    background-color: antiquewhite;
+    color:black;
+    font-size:40px;
+    font-weight: bolder;
+}
+
+#reset{
+    background-color: black;
+    color:azure;
+    border:2px solid azure;
+    height:50px;
+    width:100px;
+    border-radius: 20px; 
+}
